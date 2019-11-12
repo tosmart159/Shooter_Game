@@ -1,0 +1,9 @@
+To : 1000
+Boss : 2000
+Nut : 3000
+John : 500
+Bill : 1380
+No-Name : 0
+Mathew : 4120
+No-Name : 8260
+Toh : 2930

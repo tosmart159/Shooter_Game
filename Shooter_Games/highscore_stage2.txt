@@ -1,0 +1,14 @@
+To : 1000
+Boss : 2000
+Nut : 3000
+John : 500
+Bill : 1380
+No-Name : 2330
+Pee : 4310
+Jane : 2570
+No-Name : 0
+No-Name : 4900
+No-Name : 780
+No-Name : 200
+LisRers : 6900
+Toh : 2370

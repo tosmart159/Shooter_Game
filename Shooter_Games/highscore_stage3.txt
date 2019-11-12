@@ -1,0 +1,16 @@
+To : 1000
+Boss : 2000
+Nut : 3000
+John : 500
+Bill : 1380
+Marry : 8000
+Pat : 2240
+No-Name : 3380
+Ploy : 4290
+No-Name : 0
+No-Name : 3240
+No-Name : 0
+No-Name : 1580
+LisRers : 11090
+No-Name : 1110
+LisRers : 5430
